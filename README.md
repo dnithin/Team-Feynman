@@ -1,4 +1,4 @@
-Project Proposal Team Feynman
+**Project Proposal Team Feynman**
 
 **What is the goal of the game? What is the story or theme or Emotion?**
 
