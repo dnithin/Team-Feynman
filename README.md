@@ -1,6 +1,7 @@
 **Project Proposal Team Feynman**
 
 Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
+
 Link: https://dnithin.github.io/Team-Feynman/
 
 **Goal:**
