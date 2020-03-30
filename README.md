@@ -44,7 +44,3 @@ For the first build we are planning to have our levels each laid out and conside
 **When are your regular meetings times?**
 
 We plan to meet every Friday at 1:00 PM. At this point this seems like the time we will meet, but as the semester continues and we get more used to the current situation that we are in, our meeting time might change based on our team's needs.
-
-
-
-
