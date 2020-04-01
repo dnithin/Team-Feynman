@@ -4,6 +4,8 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 Link: https://dnithin.github.io/Team-Feynman/
 
+Updates:
+
 **Goal:**
 
 The goal of our game is to engage our players with a multitude of different puzzles and levels given an extra measure of pressure with a time limit. The theme will be logic puzzles and challenges that the user will have to solve to escape from the rooms.
