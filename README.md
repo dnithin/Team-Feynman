@@ -4,7 +4,7 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 Link: https://dnithin.github.io/Team-Feynman/
 
-Updates:
+Updates:https://dnithin.github.io/Updates/
 
 **Goal:**
 
