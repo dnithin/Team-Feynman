@@ -2,9 +2,9 @@
 
 Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
-**Home Page**[https://dnithin.github.io/Team-Feynman/](https://dnithin.github.io/Team-Feynman/)
+**Home Page**: [https://dnithin.github.io/Team-Feynman/](https://dnithin.github.io/Team-Feynman/)
 
-**Update Page**[https://dnithin.github.io/Updates/](https://dnithin.github.io/Updates/)
+**Update Page**: [https://dnithin.github.io/Updates/](https://dnithin.github.io/Updates/)
 
 Link: https://dnithin.github.io/Team-Feynman/
 
