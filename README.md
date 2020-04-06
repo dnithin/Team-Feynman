@@ -1,4 +1,4 @@
-**Project Proposal Team Feynman**
+# Project Proposal Team Feynman
 
 Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
