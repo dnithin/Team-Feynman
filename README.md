@@ -4,7 +4,7 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 **Home Page**: [https://dnithin.github.io/Team-Feynman/](https://dnithin.github.io/Team-Feynman/)
 
-**Update Page**: [https://dnithin.github.io/Updates/](https://dnithin.github.io/Updates/)
+**Blog Updates Page**: [https://dnithin.github.io/Updates/](https://dnithin.github.io/Updates/)
 
 **Team Feynman Blog 1: April 6th 2020**
 
