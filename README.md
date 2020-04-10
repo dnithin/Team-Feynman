@@ -8,7 +8,7 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 **Game**: [https://dnithin.github.io/Game/](https://dnithin.github.io/Game/)
 
-**Game Windows Build**:[https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO](https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO)
+**Download Game Windows Build**:[https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO](https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO)
 
 **Team Feynman Blog 1: April 6th 2020**
 
