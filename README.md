@@ -6,7 +6,7 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 **Blog Updates Page**: [https://dnithin.github.io/Updates/](https://dnithin.github.io/Updates/)
 
-**Game**: [https://dnithin.github.io/Game/](https://dnithin.github.io/Game/)
+**Game**: [https://dnithin.github.io/GameDeliverable/](https://dnithin.github.io/GameDeliverable/)
 
 **Download Game Windows Build**:[https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO](https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO)
 
