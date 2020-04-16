@@ -12,7 +12,6 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 **Download Game Windows Build**:[https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO](https://drive.google.com/open?id=1WFd7Yq6pOLYPppqojtjzO42WPMBwSrAO)
 
-**Download Game Mac Build**:[https://drive.google.com/open?id=1_wjh0AW_RQGHuvW5cOZWkpUzQrvCo-Df](https://drive.google.com/open?id=1_wjh0AW_RQGHuvW5cOZWkpUzQrvCo-Df)
 
 **Team Feynman Blog Post 2: April 13th 2020**
 
