@@ -1,4 +1,4 @@
-# Project Proposal Team Feynman
+# Team Feynman
 
 Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
@@ -34,6 +34,7 @@ We also discussed the story of our game was going to be about escaping the game 
 
 Specifically last week Dinakar was working on his level in his game and working on various scripts,necessary for the animation triggers. Andrew created the scene management script as well as the lobby start scene and end scene. Andrew also created a basic pick up script that can pickup different types of objects, this script contains a carry location and drop location which can be used for all the other levels. Lastly, Andrew created the logic for the first puzzle in his level. Michael worked on his level design and started researching how to implement UIs in unity in order to assist in the storyline of the game. 
 
+# Project Proposal
 
 **Goal:**
 
