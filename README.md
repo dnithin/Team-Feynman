@@ -6,7 +6,7 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 **Blog Updates Page**: [https://dnithin.github.io/Updates/](https://dnithin.github.io/Updates/)
 
-**Most Recent Game Build** [https://sobyandrew.github.io/unityTest/](https://sobyandrew.github.io/unityTest/)
+**Most Recent Game Build** [https://dnithin.github.io/Recent/](https://dnithin.github.io/Recent/)
 
 **Game**: [https://dnithin.github.io/PrimaryDeliverable/](https://dnithin.github.io/PrimaryDeliverable/)
 
