@@ -12,7 +12,7 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 **Alternatively if the game link above isn't working** [https://sobyandrew.github.io/unityTest/](https://sobyandrew.github.io/unityTest/)
 
-**Team Feynman Blog Post 3: April 13th 2020**
+**Team Feynman Blog Post 3: April 20th 2020**
 
 This week we got feedback from a group of students on our game.
 
