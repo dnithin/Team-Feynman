@@ -6,8 +6,6 @@ Team: Andrew Soby, Micheal Hauser, Dinakar Nithin
 
 **Blog Updates Page**: [https://dnithin.github.io/Updates/](https://dnithin.github.io/Updates/)
 
-**Most Recent Game Build** [https://dnithin.github.io/Recent/](https://dnithin.github.io/Recent/)
-
 **GameBuild**: [https://dnithin.github.io/FinalBuild/](https://dnithin.github.io/FinalBuild/)(You can play the game here)
 
 **Alternatively if the game link above isn't working** [https://sobyandrew.github.io/unityTest/](https://sobyandrew.github.io/unityTest/)
